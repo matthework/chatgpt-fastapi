@@ -1,0 +1,22 @@
+# Python-specific files
+__pycache__/
+.pytest_cache/
+.tox/
+.coverage
+.mypy_cache
+
+# Virtual environment directories
+.venv
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+*c
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
